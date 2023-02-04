@@ -268,4 +268,4 @@ Bootstrap has many versions, always check if you are using the latest version of
 
 We recommend using a CDN to import bootstrap in your HTML like this one: [https://www.bootstrapcdn.com/](https://www.bootstrapcdn.com/)
 
-If you are migrating your project to a newer Bootstrap version remember to check its documentation.
+If you are migrating your project to a newer Bootstrap version remember to check its documentation!
